@@ -1,0 +1,4 @@
+interface:
+  display_name: "inhao jobs skill"
+  short_description: "从简历定位到国内平台搜岗，筛选值得申请的职位并针对岗位改写经历"
+  default_prompt: "用 $inhao-jobs-skill 帮我在国内找工作，先从我的简历和求职偏好开始。"
